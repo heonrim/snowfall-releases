@@ -86,7 +86,7 @@ curl -fsSL https://raw.githubusercontent.com/heonrim/snowfall-releases/main/inst
 
 ## Permissions
 
-Snowfall needs **no permissions**. It reads window positions (never their contents) so snow can land on them. If you choose Spotify or Apple Music for the Christmas song, macOS asks once whether Snowfall may control that app; saying no only keeps the show silent. Snowfall collects nothing. It goes online only for *Check for Updates…* when you choose it, and for the video if you pick YouTube for the Christmas song.
+Snowfall needs **no permissions**. It reads window positions (never their contents) so snow can land on them. If you choose Spotify or Apple Music for the Christmas song, macOS asks once whether Snowfall may control that app; saying no only keeps the show silent. Snowfall collects nothing. It goes online only to look for a new version (once a day, which you can turn off in Setup, or when you choose *Check for Updates…*) and for the video if you pick YouTube for the Christmas song.
 
 ## Uninstall
 
